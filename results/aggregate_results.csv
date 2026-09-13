@@ -1,0 +1,3 @@
+condition,test_precision_mean,test_precision_sd,test_recall_mean,test_recall_sd,test_micro_f1_mean,test_micro_f1_sd,test_macro_f1_mean,test_macro_f1_sd
+baseline,0.4651,0.0121,0.4978,0.0407,0.4805,0.0231,0.4172,0.0471
+weight_only,0.2719,0.0119,0.7521,0.0092,0.3993,0.0141,0.4151,0.0163

@@ -1,0 +1,6 @@
+model,prompt_language,participant_f1,event_f1,time_f1,quantification_f1,pooled_precision,pooled_recall,pooled_f1,structured_output_note
+qwen3:14b,Portuguese,0.3099,0.3448,0.5063,0.3716,0.2681,0.5131,0.3522,completed
+qwen3:14b,English,0.2622,0.2857,0.5238,0.3077,0.2391,0.4307,0.3075,completed
+mistral-nemo:12b,English,0.2308,0.2766,0.2500,0.3820,0.4058,0.2097,0.2765,frequent_truncation
+gemma4:12b,English,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,structured_output_failure
+llama3.1:8b,English,NA,NA,NA,NA,NA,NA,NA,structured_output_failure

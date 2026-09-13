@@ -1,0 +1,7 @@
+run_id,model,condition,seed,o_class_weight,learning_rate,batch_size,primary_metric,status
+bertimbau_baseline_s42,neuralmind/bert-base-portuguese-cased,baseline,42,1.0,2e-5,16,strict_entity_exact_match_micro_f1,pending
+bertimbau_baseline_s123,neuralmind/bert-base-portuguese-cased,baseline,123,1.0,2e-5,16,strict_entity_exact_match_micro_f1,pending
+bertimbau_baseline_s2025,neuralmind/bert-base-portuguese-cased,baseline,2025,1.0,2e-5,16,strict_entity_exact_match_micro_f1,pending
+bertimbau_weight_s42,neuralmind/bert-base-portuguese-cased,weight_only,42,0.05,2e-5,16,strict_entity_exact_match_micro_f1,pending
+bertimbau_weight_s123,neuralmind/bert-base-portuguese-cased,weight_only,123,0.05,2e-5,16,strict_entity_exact_match_micro_f1,pending
+bertimbau_weight_s2025,neuralmind/bert-base-portuguese-cased,weight_only,2025,0.05,2e-5,16,strict_entity_exact_match_micro_f1,pending

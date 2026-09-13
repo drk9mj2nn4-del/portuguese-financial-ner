@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Assisted Annotation and Class-Weighted NER for Portuguese Financial News"
+type: software
+authors:
+  - family-names: Herdeiro
+    given-names: Pedro
+    email: up202506531@up.pt
+  - family-names: Campos
+    given-names: Pedro
+    email: pedro.campos@ine.pt
+  - family-names: Amorim
+    given-names: Evelin Freire
+    email: evelin.f.amorim@inesctec.pt
+license: MIT
+repository-code: "https://github.com/drk9mj2nn4-del/portuguese-financial-ner"
+date-released: 2026-09-13

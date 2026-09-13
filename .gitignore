@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+outputs/
+logs/
+checkpoints/
+*.log
+predictions_*.jsonl

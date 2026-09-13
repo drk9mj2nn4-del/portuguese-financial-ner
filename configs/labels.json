@@ -1,0 +1,11 @@
+[
+  "O",
+  "B-Participante",
+  "I-Participante",
+  "B-Evento",
+  "I-Evento",
+  "B-Tempo",
+  "I-Tempo",
+  "B-Quantificacao",
+  "I-Quantificacao"
+]
