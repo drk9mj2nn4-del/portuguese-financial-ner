@@ -1,8 +1,12 @@
 # Assisted annotation and class-weighted NER for Portuguese financial news
 
-This repository accompanies the paper **"LLM-Assisted Corpus Construction and Recall-Oriented Class Weighting for Portuguese Financial NER"**, submitted to RECPAD 2026. It contains the BERTimbau fine-tuning and evaluation code, the fixed-15 experimental configuration, aggregate results, and the prompt templates used in the assisted-annotation workflow.
+This repository accompanies the paper **"LLM-Assisted Corpus Construction and Recall-Oriented Class Weighting for Portuguese Financial NER"**, accepted at RECPAD 2026. It contains the BERTimbau fine-tuning and evaluation code, the fixed-15 experimental configuration, aggregate results, and the prompt templates used in the assisted-annotation workflow.
 
 The corpus, document identifiers, model checkpoints, predictions, and execution logs are deliberately excluded. The source news articles cannot be redistributed. See [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md) for the expected local data format.
+
+## Corpus provenance and collection
+
+[CORPUS_COLLECTION.md](CORPUS_COLLECTION.md) documents the Arquivo.pt search window, publisher filters, search terms, extraction and topic-selection rules, LLM-assisted curation, deduplication, and final partitions. It deliberately contains no article text, archived URLs, annotations, or real document identifiers. The exact private corpus cannot be reconstructed from this public repository.
 
 ## Experimental protocol
 
